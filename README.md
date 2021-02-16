@@ -1,7 +1,7 @@
  
+ 
 
-
-> Open this page at [https://cxphoenix.github.io/arcadeinternaldbsystemtestwreeijidjf/](https://cxphoenix.github.io/arcadeinternaldbsystemtestwreeijidjf/)
+> Open this page at [https://cxphoenix.github.io/arcadeinternaldbsystemtest/](https://cxphoenix.github.io/arcadeinternaldbsystemtest/)
 
 ## Use as Extension
 
